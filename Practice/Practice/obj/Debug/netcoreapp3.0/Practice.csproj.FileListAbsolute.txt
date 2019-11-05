@@ -1,0 +1,11 @@
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.exe
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.deps.json
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.json
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.dev.json
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.dll
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\bin\Debug\netcoreapp3.0\Practice.pdb
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.csprojAssemblyReference.cache
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfoInputs.cache
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfo.cs
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.dll
+C:\Users\harellano\source\repos\heather-arellano\c-exercises\Practice\Practice\obj\Debug\netcoreapp3.0\Practice.pdb
